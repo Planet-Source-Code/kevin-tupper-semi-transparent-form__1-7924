@@ -1,0 +1,1 @@
+msimg32.dll is only needed if you have win95
